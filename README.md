@@ -8,4 +8,4 @@ Summer medals,
 Winter games,
 Winter medals,
 total games,
-total medals
+total medals.
