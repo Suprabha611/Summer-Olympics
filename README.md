@@ -4,8 +4,8 @@ This file consists of the olympics dataset (olympics.csv), which was derived fro
 
 The columns are organized as
 Summer games,
-Summer medals
-Winter games
-Winter medals
-total games
+Summer medals,
+Winter games,
+Winter medals,
+total games,
 total medals
